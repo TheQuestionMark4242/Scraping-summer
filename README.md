@@ -1,5 +1,5 @@
 # Scraping-summer
-Simple Python script to scrape the current year's GSOC Projects
+Simple Python script to scrape the current year's GSOC Projects. Done as a technical test for a summer project under Stamatics Club, IITK namely 6W6L.
 
 
 # Usage
